@@ -1,4 +1,5 @@
 .pants.d
+.ssh
 /dist/
 /.vscode
 /.venv
